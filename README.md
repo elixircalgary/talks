@@ -4,7 +4,7 @@ Slides and supporting data of Elixir Calgary meetup.
 | Date          | Resources                          |Author               |
 |:------------- |:-----------------------------------|:--------------------|
 | 17-09-2018    | [ElixirConf](pdfs/jonathanstiasen/elixir_conf_2018.pdf) | Jono Stiansen [@jonathanstiansen](https://github.com/jonathanstiansen)|
-| 06-06-2018    | [Katas](pdfs/ramortegui/elixiir-koans.pdf)| Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
+| 06-06-2018    | [Katas](pdfs/ramortegui/elixir-koans.pdf)| Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
 | 26-03-2018    | [Concurrent Programming](pdfs/ramortegui/concurrent-programming.pdf)| Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
 | 13-12-2017    | [Intro Graphql - Absinthe](pdfs/ramortegui/elixir-absinthe-basics.pdf)| Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
 | 20-08-2017    | [Phoenix 1.3](pdfs/ramortegui/phoenix-basics.pdf)| Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
