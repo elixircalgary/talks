@@ -3,6 +3,7 @@ Slides and supporting data of Elixir Calgary meetup.
 
 | Date          | Resources                          |Author               |
 |:------------- |:-----------------------------------|:--------------------|
+| 30-01-2019    | [Ecto](pdfs/ramortegui/ecto.pdf) | Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
 | 15-11-2018    | [Working With Phoenix](pdfs/ramortegui/working-with-phoenix.pdf) | Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
 | 17-09-2018    | [ElixirConf](pdfs/jonathanstiansen/elixir_conf_2018.pdf) | Jono Stiansen [@jonathanstiansen](https://github.com/jonathanstiansen)|
 | 17-09-2018    | [ElixirConf](pdfs/ramortegui/elixir-elixirconf2018.pdf) | Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
