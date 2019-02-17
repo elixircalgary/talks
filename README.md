@@ -14,4 +14,4 @@ Slides and supporting data of Elixir Calgary meetup.
 | 03-05-2017    | [OTP Basics](pdfs/ramortegui/elixir-otp-basics.pdf)     | Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
 | 15-03-2017    | [Basics P2](pdfs/ramortegui/elixir-basics-2.pdf)| Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
 | 09-02-2017    | [Basics P1](pdfs/ramortegui/elixir-basics.pdf)| Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
-| 01-12-2017    | [From Perl to Elixir](pdfs/ramortegui/porting-perl-package-to-elixir.pdf)| Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
+| 12-01-2017    | [From Perl to Elixir](pdfs/ramortegui/porting-perl-package-to-elixir.pdf)| Ruben Amortegui [@ramortegui](https://github.com/ramortegui)|
